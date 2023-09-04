@@ -1,0 +1,6 @@
+C:\Users\conspiracy\source\VixenFNV3\Test\VxnLauncher\VxnNoBan\bin\Release\VxnNoBan.dll
+C:\Users\conspiracy\source\VixenFNV3\Test\VxnLauncher\VxnNoBan\bin\Release\VxnNoBan.pdb
+C:\Users\conspiracy\source\VixenFNV3\Test\VxnLauncher\VxnNoBan\obj\Release\VxnNoBan.csproj.AssemblyReference.cache
+C:\Users\conspiracy\source\VixenFNV3\Test\VxnLauncher\VxnNoBan\obj\Release\VxnNoBan.csproj.CoreCompileInputs.cache
+C:\Users\conspiracy\source\VixenFNV3\Test\VxnLauncher\VxnNoBan\obj\Release\VxnNoBan.dll
+C:\Users\conspiracy\source\VixenFNV3\Test\VxnFNLauncherRelease\VxnNoBan.dll

@@ -1,0 +1,4 @@
+C:\Users\conspiracy\source\VixenFNV3\Test\VxnLauncher\EZUnmanagedFunctions\bin\x64\Release\EZUnmanagedFunctions.dll
+C:\Users\conspiracy\source\VixenFNV3\Test\VxnLauncher\EZUnmanagedFunctions\obj\x64\Release\EZUnmanagedFunctions.csproj.AssemblyReference.cache
+C:\Users\conspiracy\source\VixenFNV3\Test\VxnLauncher\EZUnmanagedFunctions\obj\x64\Release\EZUnmanagedFunctions.csproj.CoreCompileInputs.cache
+C:\Users\conspiracy\source\VixenFNV3\Test\VxnLauncher\EZUnmanagedFunctions\obj\x64\Release\EZUnmanagedFunctions.dll
